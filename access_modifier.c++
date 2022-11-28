@@ -3,7 +3,9 @@ using namespace std;
 class Student{
     public:
     string name;
+    private:
     int rollno;
+    protected:
     string course;
     int sem;
     void display()
