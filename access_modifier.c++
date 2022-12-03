@@ -20,8 +20,8 @@ int main()
 {
     Student s1;
     s1.name="vaibhav";
-    s1.rollno=59;
-    s1.course="Btech";
-    s1.sem=7;
-    s1.display();
+    //s1.rollno=59;
+    //s1.course="Btech";
+    //s1.sem=7;
+    //s1.display();
 }
